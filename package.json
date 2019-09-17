@@ -3,9 +3,9 @@
   "version": "0.0.1",
   "description": "A VR contents player based A-Frame",
   "keywords": ["vr player", "a-frame"],
-  "main": "dist/--libraryname--.umd.js",
-  "module": "dist/--libraryname--.es5.js",
-  "typings": "dist/types/--libraryname--.d.ts",
+  "main": "dist/vrframe-vr-player.umd.js",
+  "module": "dist/vrframe-vr-player.es5.js",
+  "typings": "dist/types/vrframe-vr-player.d.ts",
   "files": [
     "dist"
   ],
