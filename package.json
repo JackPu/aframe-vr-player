@@ -7,7 +7,8 @@
   "module": "dist/vrframe-vr-player.es5.js",
   "typings": "dist/types/vrframe-vr-player.d.ts",
   "files": [
-    "dist"
+    "dist",
+    "README.md"
   ],
   "author": "Jack Pu",
   "repository": {
