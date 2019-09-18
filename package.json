@@ -2,7 +2,10 @@
   "name": "aframe-vr-player",
   "version": "0.0.1",
   "description": "A VR contents player based A-Frame",
-  "keywords": ["vr player", "a-frame"],
+  "keywords": [
+    "vr player",
+    "a-frame"
+  ],
   "main": "dist/vrframe-vr-player.umd.js",
   "module": "dist/vrframe-vr-player.es5.js",
   "typings": "dist/types/vrframe-vr-player.d.ts",
@@ -118,5 +121,8 @@
     "tslint-config-standard": "^8.0.1",
     "typedoc": "^0.12.0",
     "typescript": "^3.0.3"
+  },
+  "dependencies": {
+    "aframe": "^0.9.2"
   }
 }
